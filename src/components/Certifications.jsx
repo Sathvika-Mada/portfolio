@@ -42,6 +42,13 @@ function Certifications() {
               <span>September 2026</span>
             </div>
 
+            <div className="cert-box">
+              <img src="/cert4.png" alt="certificate" className="cert-img" />
+              <h3>TCS iON Career Edge - Young Professional</h3>
+              <p>TCS</p>
+              <span>June 29</span>
+            </div>
+
           </div>
 
         </div>

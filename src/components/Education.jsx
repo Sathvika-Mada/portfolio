@@ -2,7 +2,7 @@ import { FaGraduationCap, FaBook, FaSchool } from "react-icons/fa";
 
 function Education() {
   return (
-    <section id="education" className="bg-[#05071a] py-16 px-4">
+    <section id="education" className="bg-[#05071a] py-8 px-4">
 
       {/* OUTER BORDER */}
       <div className="w-[95%] mx-auto rounded-2xl p-[2px] about-border">
