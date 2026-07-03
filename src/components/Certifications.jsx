@@ -48,6 +48,12 @@ function Certifications() {
               <p>TCS</p>
               <span>June 29</span>
             </div>
+            <div className="cert-box">
+              <img src="/cert5.png" alt="certificate" className="cert-img" />
+              <h3>IIT-Roopar Internship</h3>
+              <p>IITS-Roopar</p>
+              <span>July 1</span>
+            </div>
 
           </div>
 
