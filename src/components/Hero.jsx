@@ -55,7 +55,7 @@ function Hero() {
             </button>
 
             <a
-              href="/resume.pdf"
+              href="/127003141_MadaSathvika.pdf"
               target="_blank"
               rel="noreferrer"
               className="glass-btn cyan-btn text-center"
